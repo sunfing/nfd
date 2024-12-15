@@ -1,2 +1,2 @@
 # NFD
-Telegram private message robot!
+Telegram Private Message Bot!
